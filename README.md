@@ -1,7 +1,7 @@
 # SplashScreenApp
 Ejemplo practico para crear un SplashScreen en React Native
 
-![Image text](https://github.com/AlexanderSiguenza/apiPacienteApp/blob/main/img/CRUDAPIRESTPHP.jpg)
+![Image text](https://github.com/AlexanderSiguenza/SplashScreenApp/blob/main/img/SplashScreen.png)
 
 # Los pasos para crear el proyecto y publicarlo en expo:
 
