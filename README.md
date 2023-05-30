@@ -1,5 +1,5 @@
 # SplashScreenApp
-Ejemplo practico para crear un SplashScreen en React Native
+EJEMPLO para realizar pantalla de bienvenidad (SplashScreen), acceso y registro al sistema, consumiendo una api rest en php con React Native , 
 
 ![Image text](https://github.com/AlexanderSiguenza/SplashScreenApp/blob/main/img/SplashScreen.png)
 
